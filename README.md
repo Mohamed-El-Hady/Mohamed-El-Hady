@@ -24,8 +24,9 @@
   ### 🌐 Socials:
 <a href="https://www.instagram.com/mo_el7ady">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+   <a href="https://www.youtube.com/@Elhady_Tech" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" height=55  ></a>
   </a>
-  <a href="https://tlgrm.in/Codewithflexz" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" height="50"  />
-  <a href="https://www.youtube.com/@Elhady_Tech" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" height=55  ></a>
-    <a href="https://elhadytech0@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50"  /></a>
+  <a href="https://www.linkedin.com/in/mohamed-elhady" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" height="50"  />
+
+ 
       
