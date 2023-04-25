@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
    <a href="https://www.youtube.com/@Elhady_Tech" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" height=55  ></a>
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-elhady" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" height="50"  />
+  <a href="https://www.linkedin.com/in/mohamed-elhady-78923a24b/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" height="50"  />
 
  
       
