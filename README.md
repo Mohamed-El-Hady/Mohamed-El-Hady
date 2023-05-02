@@ -14,6 +14,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmfathy219&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 ### 💻 Tech Stack:
 
